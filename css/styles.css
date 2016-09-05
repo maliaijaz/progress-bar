@@ -1,0 +1,13 @@
+#progress-bar-container {
+  width: 100%; /* used to span the whole width*/
+  height: 30px;
+  position: relative;
+  background-color: grey;
+}
+
+#bar {
+  background-color: green;
+  width: 10px;
+  height: 30px;
+  position: absolute;
+}
